@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='Beetle-Markdown',
-    version='0.1.0'
+    version='0.1.0',
     author='Esben Sonne',
     author_email='esbensonne+code@gmail.com',
     description='Makes Beetle do markdown',
